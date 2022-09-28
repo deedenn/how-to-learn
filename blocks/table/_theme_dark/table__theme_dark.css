@@ -1,0 +1,8 @@
+.table_theme_dark {
+    margin-bottom: 90px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    gap: 0;
+    z-index: 1000;
+  }
