@@ -1,3 +1,8 @@
 .cards__item {
     flex: 100px;
+    margin-right: 100px;
+  }
+
+  .cards__item:nth-child(3n+3) {
+    margin: 0;
   }
